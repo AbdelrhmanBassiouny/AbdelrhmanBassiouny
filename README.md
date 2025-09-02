@@ -14,9 +14,29 @@ I'm a researcher and developer passionate about **AI**, **Robotics**, and **Know
   
 ![Abdelrhman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrhmanBassiouny&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanBassiouny&theme=dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanBassiouny&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdelrhmanBassiouny&theme=react-dark&hide_border=true)
+
 </div>
+
+## 📈 Repository Insights
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AbdelrhmanBassiouny&color=brightgreen&style=flat)
+![Followers](https://img.shields.io/github/followers/AbdelrhmanBassiouny?style=social)
+![Stars](https://img.shields.io/github/stars/AbdelrhmanBassiouny?style=social)
+
+</div>
+
+**Key Repository Stats:**
+- 🔥 **Featured Project**: [ripple_down_rules](https://github.com/AbdelrhmanBassiouny/ripple_down_rules) - 3 ⭐, 3 🍴
+- 🚀 **Most Forked**: [stopp](https://github.com/AbdelrhmanBassiouny/stopp) - 4 🍴 
+- 📚 **Active Research**: NEEM ecosystem with multiple interconnected repositories
+- 🌐 **Documentation**: Projects with GitHub Pages for comprehensive documentation
 
 ## 🚀 Notable Repositories
 
@@ -53,6 +73,22 @@ I'm a researcher and developer passionate about **AI**, **Robotics**, and **Know
 - 🔍 Computer Vision & Perception
 - 📊 Query Languages & Databases
 - 🎯 Path Planning & Optimization
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrhmanBassiouny)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrhman-bassiouny)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=AbdelrhmanBassiouny)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrhman.bassiouny@example.com)
+
+</div>
+
+---
+<div align="center">
+<em>🤖 Building the future through AI and Robotics | 🔬 Advancing Knowledge Representation Systems</em>
+</div>
 
 <!--
 **AbdelrhmanBassiouny/AbdelrhmanBassiouny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
